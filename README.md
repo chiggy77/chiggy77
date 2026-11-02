@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Arora</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">Master in Management student at emlyon business school (Lyon, France) with a B.Tech in Computer Science and 2 years' experience as a full-stack developer (Wipro, Talentelgia).I like practical problems: checking data quality, forecasting demand, automating reports and building the tools around them. My background mixes business, analytics and software development.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiggy77&label=Profile%20views&color=0e75b6&style=flat" alt="chiggy77" /> </p>
-
-# Hi, I'm Chirag Arora
-
-Master in Management student at emlyon business school (Lyon, France) with a B.Tech in Computer Science and 2 years' experience as a full-stack developer (Wipro, Talentelgia).I like practical problems: checking data quality, forecasting demand, automating reports and building the tools around them. My background mixes business, analytics and software development.
 
 ## Selected projects
 - [Demand Forecast Accuracy Study](https://github.com/chiggy77/demand-forecast-accuracy-study): compares 5 forecasting methods on a public retail dataset, measured with WAPE and bias (Python).
