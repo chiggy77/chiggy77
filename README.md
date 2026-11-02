@@ -3,16 +3,24 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiggy77&label=Profile%20views&color=0e75b6&style=flat" alt="chiggy77" /> </p>
 
-- 🌱 I’m currently a **Fullstack Developmer**
+# Hi, I'm Chirag Arora
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/techwhiz77?utm_source=linktree_admin_share](https://linktr.ee/techwhiz77?utm_source=linktree_admin_share)
+Master in Management student at emlyon business school (Lyon, France) with a B.Tech in Computer Science and 2 years' experience as a full-stack developer (Wipro, Talentelgia).I like practical problems: checking data quality, forecasting demand, automating reports and building the tools around them. My background mixes business, analytics and software development.
 
-- 💬 Ask me about **react, JS, HTML5, CSS, API ,Node js,Java**
+## Selected projects
+- [Demand Forecast Accuracy Study](https://github.com/chiggy77/demand-forecast-accuracy-study): compares 5 forecasting methods on a public retail dataset, measured with WAPE and bias (Python).
+- [Returns Data Validation Tool](https://github.com/chiggy77/returns-data-validation-tool): an Excel VBA macro that checks a simulated returns file against 7 rules and flags 74 planted errors.
 
-- 📫 How to reach me **chiirraagg777@gmail.com**
+Both use public or simulated data.
 
-- ⚡ Fun fact **Coding is the closest thing we have to a superpower**
- - 📫 Portfilio Link https://chiggy77.github.io
+## Development background
+React, JavaScript, Node.js, Java, REST APIs,Python,sql,mongoDB and Stripe subscription payments with webhooks. Some of the older projects pinned below are team projects from my bootcamp.
+Old projects
+- 📫 Portfilio Link https://chiggy77.github.io
+- 👨‍💻 All of my old projects are available at [https://linktr.ee/techwhiz77?utm_source=linktree_admin_share](https://linktr.ee/techwhiz77?utm_source=linktree_admin_share)
+## Contact
+- Email: chiirraagg777@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chirag-arora-72881624b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
